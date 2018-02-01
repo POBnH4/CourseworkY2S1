@@ -1,0 +1,11 @@
+Music,Hey,245,The Pixies
+Film,Blade Runner,7020,18,Ridley Scott
+Series,Deadwood,3500,18,4,Here Was a Man
+Music,Danger! High Voltage,205,Electric Six
+Film,The Big Lebowski,7000,5,Coen Brothers
+Series,Breaking Bad,2700,15,5,Gray Matter
+Music,If there is something,610,Roxy Music
+Film,Toy Story,4900,5,John Lasseter
+Music,Gimme Shelter,265,Rolling Stones
+Series,The Clangers,1200,5,50,Blob
+Series,The Sopranos,3900,18,37,Pine Barrens

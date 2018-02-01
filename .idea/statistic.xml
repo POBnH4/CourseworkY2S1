@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Statistic">
+    <option name="fileTypes" value="jar;war;zip;" />
+    <option name="separateTabsFileTypes" value="java;php;html;css;" />
+    <option name="excludedDirectories">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/bonche" />
+      </list>
+    </option>
+  </component>
+</project>
