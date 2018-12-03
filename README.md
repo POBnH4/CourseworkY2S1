@@ -1,4 +1,5 @@
-# Music Player (Coursework for year 2 semester 1) *GUI - Generated* ;
+# Music Player (Coursework for year 2 semester 1)
+**** GUI - Generated **** ;
 
 
 
